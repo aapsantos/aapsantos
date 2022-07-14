@@ -6,16 +6,8 @@
  
 <!-- Dados de Contatos -->
 ## Contact Info 
+[![logo_gmail](https://user-images.githubusercontent.com/18217766/178983282-557e2ed1-4c48-4483-88c1-752d8ef9e1ed.svg)](mailto:aapsantos@gmail.com)
+[![logo_linkedin](https://user-images.githubusercontent.com/18217766/178983291-4ddc4af4-d301-47a2-8b60-7a3220e624d6.svg)](https://www.linkedin.com/in/alex-aragao/)
 
- * [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-<!---
-aapsantos/aapsantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Tech Skills -->
+## Tech Skills
